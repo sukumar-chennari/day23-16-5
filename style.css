@@ -1,0 +1,13 @@
+/* responsive styling for band template */
+
+@media screen and (max-width:450px) {
+    .navBar{
+        width: 100%;
+        height: 500px;
+        
+    }
+    .navSpan{
+        display: block;
+        width: 100%;
+    }
+}
